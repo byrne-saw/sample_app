@@ -1,0 +1,1 @@
+json.politics @r_politics["data"]["children"][0]["data"]["title"]
